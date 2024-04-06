@@ -1,3 +1,8 @@
+//? Sincrono
+//? Sincrono
+//? Sincrono
+//? Sincrono
+
 import { readFileSync, readFile } from 'fs';
 
 console.log('Leyendo el primer archivo ...');
