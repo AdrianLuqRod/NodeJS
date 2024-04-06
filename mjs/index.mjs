@@ -1,6 +1,6 @@
 // .js --> por defecto usa CommonJS
 // .mjs --> utiliza ES Modules
-// .cjs --> por defecto usa CommonJS
+// .cjs --> para utilizar usa CommonJS
 
 import { sum } from './sum.mjs';
 
